@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/datphamvn/ExportSection">
+  <a href="https://github.com/datphamvn/ExportSectionWebpage">
     <img src="icons/default-64.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -66,13 +66,13 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/datphamvn/ExportSection.svg?style=for-the-badge
-[contributors-url]: https://github.com/datphamvn/ExportSection/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/datphamvn/ExportSection.svg?style=for-the-badge
-[forks-url]: https://github.com/datphamvn/ExportSection/network/members
-[stars-shield]: https://img.shields.io/github/stars/datphamvn/ExportSection.svg?style=for-the-badge
-[stars-url]: https://github.com/datphamvn/ExportSection/stargazers
-[issues-shield]: https://img.shields.io/github/issues/datphamvn/ExportSection.svg?style=for-the-badge
-[issues-url]: https://github.com/datphamvn/ExportSection/issues
-[license-shield]: https://img.shields.io/github/license/datphamvn/ExportSection.svg?style=for-the-badge
-[license-url]: https://github.com/datphamvn/ExportSection/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/datphamvn/ExportSectionWebpage.svg?style=for-the-badge
+[contributors-url]: https://github.com/datphamvn/ExportSectionWebpage/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/datphamvn/ExportSectionWebpage.svg?style=for-the-badge
+[forks-url]: https://github.com/datphamvn/ExportSectionWebpage/network/members
+[stars-shield]: https://img.shields.io/github/stars/datphamvn/ExportSectionWebpage.svg?style=for-the-badge
+[stars-url]: https://github.com/datphamvn/ExportSectionWebpage/stargazers
+[issues-shield]: https://img.shields.io/github/issues/datphamvn/ExportSectionWebpage.svg?style=for-the-badge
+[issues-url]: https://github.com/datphamvn/ExportSectionWebpage/issues
+[license-shield]: https://img.shields.io/github/license/datphamvn/ExportSectionWebpage.svg?style=for-the-badge
+[license-url]: https://github.com/datphamvn/ExportSectionWebpage/blob/main/LICENSE
